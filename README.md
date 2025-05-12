@@ -1,5 +1,6 @@
 # 🕊️ PolyHope-M: Bridging Hope Speech Detection Across Multiple Languages
 Hope Speech Detection in Social Media Texts 
+
 Welcome to the repository for the PolyHope-M Shared Task at RANLP 2025! This repository contains the implementation and resources developed for tackling the challenge of detecting and classifying hope in social media texts across English, Spanish, German and Urdu
 
 ## 🌟 Task Overview
